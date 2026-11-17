@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Simarpreet
+#  Hi 👋, I'm Simar
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=simarpreetsinghraina" alt="Profile views" />
 </p>
