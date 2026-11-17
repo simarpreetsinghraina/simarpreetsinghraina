@@ -1,6 +1,11 @@
 #  Hi 👋, I'm Simarpreet
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simarpreetsinghraina" alt="Profile views" />
+</p>
 
-👨‍💻 About Me
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 🎓 B.Tech Computer Science student, passionate about solving real-world problems with data and code.
 - 🔭 **I’m currently working on:** A personalized memory based AI which can do all the tasks like replying to emails, helping in tasks etc and control the device with user permission..with future add ons to make fully interactive.
@@ -32,6 +37,5 @@ Email Me 👉 ✉️ **simarpreets1208@gmail.com** For Collaboration/Project or 
 ![](https://github-contributor-stats.vercel.app/api?username=simarpreetsinghraina&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=simarpreetsinghraina&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
